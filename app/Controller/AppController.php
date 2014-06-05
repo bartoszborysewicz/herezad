@@ -40,4 +40,7 @@ class AppController extends Controller {
     private function tes3() {
         echo '3';
     }
+    private function tes4() {
+        echo '4';
+    }
 }
