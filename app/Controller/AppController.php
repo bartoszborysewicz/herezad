@@ -32,6 +32,6 @@ App::uses('Controller', 'Controller');
  */
 class AppController extends Controller {
     private function test(){
-        
+        echo '1';
     }
 }
